@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Rishi",
+			"oem": "Realme",
+			"device": "Realme 3 pro",
+			"filename": "crDroidAndroid-14.0-20240116-sagit-v10.1.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/sagit/10.x/crDroidAndroid-14.0-20240116-sagit-v10.1.zip/download",
+			"timestamp": 1705423575,
+			"md5": "4bb98553d63296e675917cd08701c469",
+			"sha256": "5297484bfa10f40d4281c861e1b3810198e3daacdf327aa037614e095dd5480c",
+			"size": 1036234493,
+			"version": "10.1",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/R15H1",
+			"dt": "https://github.com/Cykeek-Labs/device_realme_RMX1851",
+			"common-dt": "",
+			"kernel": "https://github.com/Cykeek-Labs/kernel_realme_sdm710-RUI2"
+		}
+	]
+}
